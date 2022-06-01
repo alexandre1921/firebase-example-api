@@ -29,7 +29,6 @@ These tools were essential for the development of the entire project.
 
 - express
 - eslint
-- cookie-parser
 - firebase-admin
 - firebase-functions
 
@@ -47,11 +46,6 @@ To run this application, you'll need:
 After, from your command line:
 
 ### Clone this repository using this command
-
-```bash
-$ git clone https://github.com/alexandre1921/firebase-example-api
-```
-Or
 
 ```bash
 $ git clone https://github.com/alexandre1921/firebase-example-api
